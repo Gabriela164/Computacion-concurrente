@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: kass.concurrente.modelo.producto.PlatilloTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.078 s - in kass.concurrente.modelo.producto.PlatilloTest
+calculaPrecio  Time elapsed: 0.038 s
+constructorTest1  Time elapsed: 0.006 s
+constructorTest2  Time elapsed: 0.012 s
+constructorTest3  Time elapsed: 0.002 s
